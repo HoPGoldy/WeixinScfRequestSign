@@ -1,0 +1,2 @@
+<button class='btn' type='primary' bindtap='requestSCF'>点击请求SCF</button>
+<view class='describe'>请在index.js中填写secretId、secretKey以及想要调用的函数名称，该示例l使用2018-04-16版本api</view>

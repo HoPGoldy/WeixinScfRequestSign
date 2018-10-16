@@ -1,0 +1,9 @@
+.btn {
+  margin: 40rpx;
+}
+
+.describe {
+  color: #888888;
+  margin: 40rpx;
+  text-align: center;
+}
